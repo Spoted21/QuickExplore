@@ -1,5 +1,5 @@
 # QuickExplore
-Quickly explore smaller datastes with a Shiny app. This can be run easily from github:
+Quickly explore smaller datasets with a Shiny app. This can be run easily from github:
 
 ```r
 library(shiny)
